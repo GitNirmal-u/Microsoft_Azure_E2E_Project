@@ -1,0 +1,50 @@
+[
+{
+    "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Calendar.csv",
+    "Folder_Name_Parameter":"Calendar",
+    "File_Name_Parameter":"Calendar.csv"
+},
+{
+    "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Product_Categories.csv",
+    "Folder_Name_Parameter":"Product_Categories",
+    "File_Name_Parameter":"Product_Categories.csv" 
+},
+{
+   "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Customers.csv",
+    "Folder_Name_Parameter":"Customers",
+    "File_Name_Parameter":"Customers.csv"   
+},
+{
+   "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Product_Subcategories.csv",
+    "Folder_Name_Parameter":"Product_Subcategories",
+    "File_Name_Parameter":"Product_Subcategories.csv"   
+},
+
+{
+   "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Returns.csv",
+    "Folder_Name_Parameter":"Returns",
+    "File_Name_Parameter":"Returns.csv"   
+},
+{
+   "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Sales_2015.csv",
+    "Folder_Name_Parameter":"Sales_2015",
+    "File_Name_Parameter":"Sales_2015.csv"   
+},
+{
+   "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Sales_2016.csv",
+    "Folder_Name_Parameter":"Sales_2016",
+    "File_Name_Parameter":"Sales_2016.csv"   
+},
+{
+   "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Sales_2017.csv",
+    "Folder_Name_Parameter":"Sales_2017",
+    "File_Name_Parameter":"Sales_2017.csv"   
+},
+
+{
+   "dynamic_para_RL":"GitNirmal-u/Adventure-Works/refs/heads/main/AW%20Dataset/AdventureWorks_Territories.csv",
+    "Folder_Name_Parameter":"Territories",
+    "File_Name_Parameter":"Territories.csv"   
+}
+
+]
